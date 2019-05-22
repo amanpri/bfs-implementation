@@ -1,2 +1,2 @@
 # bfs-implementation
-breadth first search implementation of tree in c
+breadth first search implementation of graph in c
